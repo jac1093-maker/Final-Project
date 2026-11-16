@@ -9,6 +9,9 @@ Team Members' Names and Email Address:
 * Rushil Gupta (rug85@pitt.edu)
 
 Individual Analysis Notebook: 
+* Jacob Chen: Jacob_Chen_Best_Neighborhood_Pittsburgh (2).ipynb & jacob_chen_pittsburgh_neighborhood_rank_proportions_for_water_features.csv
+* Ziyang Chen: Ziyang-Chen_Best_neighborhood.ipynb & ziyang-chen_pittsburgh_violation_rank_proportion (1).csv & ziyang_chen_submetric_pli_violations_scored.csv
+* Rushil Gupta: Rushil_Gupta_Personal.ipynb & condemned_properties_neighborhood_ranking.csv & Rushil_Dataset.csv
 
 Canvas Group Number: 49 
 
