@@ -22,3 +22,4 @@ Description and Links to Dataset:
 * Jacob Chen, https://data.wprdc.org/dataset/city-water-features/resource/513290a6-2bac-4e41-8029-354cbda6a7b7, List of All Water Features in the Neighborhoods of Pittsburgh (Most Water Features) 
 
 Sentence Overview of Repository: 
+* This project focuses on using and analyzing at least three datasets from the WPRDC website which represents the three sub-metrics that are combined into a single metric to determine the best neighborhood in Pittsburgh. 
