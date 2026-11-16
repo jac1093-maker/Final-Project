@@ -18,7 +18,7 @@ Canvas Group Number: 49
 Description and Links to Dataset: 
 
 * Rushil Gupta, https://data.wprdc.org/dataset/condemned-properties/resource/0a963f26-eb4b-4325-bbbc-3ddf6a871410, Least No of Condemned Properties
-* Ziyang Chen, https://data.wprdc.org/dataset/pittsburgh-pli-violations-report, Violation Rate
+* Ziyang Chen, https://data.wprdc.org/dataset/pittsburgh-pli-violations-report, List of All PLI/DOMI/ES Violation Report in the Neighborhoods of Pittsburgh
 * Jacob Chen, https://data.wprdc.org/dataset/city-water-features/resource/513290a6-2bac-4e41-8029-354cbda6a7b7, List of All Water Features in the Neighborhoods of Pittsburgh
 
 Sentence Overview of Repository: 
