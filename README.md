@@ -1,6 +1,6 @@
 # Final-Project: Best Neighborhood in Pittsburgh 
 
-Team Name: Vortex 
+## Team Name: Vortex 
 
 Team Members' Names and Email Address: 
 
